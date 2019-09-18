@@ -8,3 +8,4 @@ print("Here are the ages of my three children:", 12, 7, 4)
 colour = "black"
 print("His shoes are", colour)
 print("His pants are", colour)
+print("first line \nsecond line")
