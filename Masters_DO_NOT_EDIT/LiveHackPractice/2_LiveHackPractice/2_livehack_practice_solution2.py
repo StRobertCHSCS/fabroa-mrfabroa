@@ -1,31 +1,23 @@
 """
 *******************************************************************************
 Filename:       2_livehack_practice_solution2.py
-Description:    Determine if a triangle is a right angle triangle
+Description:    Compute the destination of a student based on marks and earnings
 Author:         Fabroa.E
 Created On:     11/08/2019
 *******************************************************************************
 """
 
-# get side lengths
-side1 = int(input("Enter the length of side 1: "))
-side2 = int(input("Enter the length of side 2: "))
-side3 = int(input("Enter the length of side 3: "))
+# get marks, earnings
+marks = float(input("Enter your mark: "))
+earnings = float(input("Enter your earnings: "))
 
-# compute squares
-sq1 = side1**2
-sq2 = side2**2
-sq3 = side3**2
-
-# determine if right triangle
-if (sq1+sq2 == sq3) or (sq1+sq3 == sq2) or (sq2+sq3 == sq1):
-    print("A triangle with lengths " + str(side1) + ", " +
-    str(side2) + ", and " + str(side3) + " forms a right-angled triangle.")
+# compute and show destination
+if marks >= 80 and earnings >= 500:
+    print("You get to go to Europe.")
+elif marks >= 80:
+    print("You get to go to California.")
 else:
-    print("A triangle with lengths " + str(side1) + ", " +
-    str(side2) + ", and " + str(side3) + " does not form a right-angled triangle.")
-
-
+    print("You stay home :(")
 
 
 
