@@ -7,8 +7,8 @@ total = 0
 
 # get the products and quantity and add them to the total
 for i in range (1, 4):
-    price = float(input("Enter the price of product "+str(i)+": "))
-    qty = int(input("Enter the quantity of product "+str(i)+": "))
+    price = float(input("Enter the price of product " + str(i) + ": "))
+    qty = int(input("Enter the quantity of product " + str(i) + ": "))
 
     total = total + (price * qty)
 
