@@ -18,13 +18,13 @@ You owe a fee of $141.44
 
 ### Sample Run 2:
 ```
-Enter a daily spent amount (-1 to stop): 176
-Enter a daily spent amount (-1 to stop): 255
-Enter a daily spent amount (-1 to stop): 320
-Enter a daily spent amount (-1 to stop): 45
-Enter a daily spent amount (-1 to stop): 200
-Enter a daily spent amount (-1 to stop): -1
-Total Days travelled: 5
-Total amount spent: $996.00
-Phew, you do not owe a fee
+Enter a daily spent amount (-1 to stop): 176  
+Enter a daily spent amount (-1 to stop): 255  
+Enter a daily spent amount (-1 to stop): 320  
+Enter a daily spent amount (-1 to stop): 45  
+Enter a daily spent amount (-1 to stop): 200  
+Enter a daily spent amount (-1 to stop): -1  
+Total Days travelled: 5  
+Total amount spent: $996.00  
+Phew, you do not owe a fee  
 ```
