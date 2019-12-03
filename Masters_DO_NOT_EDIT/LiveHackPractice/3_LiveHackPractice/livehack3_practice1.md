@@ -9,7 +9,7 @@ customers by displaying currency conversion tables throughout their stores.
 
 Create an program that takes in the Canadian to U.S dollar exchange rate, starting price, and ending price, and then outputs a conversion table of Canadian to U.S Dollars with increments of $10
 
-```text
+```
 Enter the Canadian to US Dollar exhange rate: 0.75
 Enter the starting value: 10
 Enter the end value: 200
@@ -20,4 +20,4 @@ Can Price  --> US Price
 30 --> 22.5
 ...
 200 --> 150.0
-````. 
+```
