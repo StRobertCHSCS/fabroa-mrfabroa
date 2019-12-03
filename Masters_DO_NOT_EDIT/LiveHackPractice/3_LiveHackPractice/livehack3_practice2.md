@@ -15,9 +15,10 @@ Enter a daily spent amount (-1 to stop): -1
 Total Days travelled: 4
 Total amount spent: $1088.00
 You owe a fee of $141.44
+```
 
 ### Sample Run 2:
-```text
+```
 Enter a daily spent amount (-1 to stop): 176  
 Enter a daily spent amount (-1 to stop): 255  
 Enter a daily spent amount (-1 to stop): 320  
