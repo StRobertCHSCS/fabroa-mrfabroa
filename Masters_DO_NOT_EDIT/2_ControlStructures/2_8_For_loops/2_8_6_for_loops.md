@@ -9,7 +9,7 @@ Each of the next N lines contains one integer. Print the sum of these N integers
 ### Example
 ```text
 10
-1
+1-
 2
 1
 1
